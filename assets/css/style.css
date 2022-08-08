@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+.carrossel-tela {
+    font-size: vh;
+}
 
 figure.foto-legenda {
     border: 8px solid white;
